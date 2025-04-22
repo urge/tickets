@@ -1,3 +1,19 @@
+```mermaid
+graph TD
+  ID01 --> ID04
+  ID02 --> ID21
+  ID17 --> ID18
+  ID18 --> ID20
+  ID20 --> ID31
+  ID31 --> ID32
+  ID32 --> ID33
+  ID34 --> ID35
+  ID22 --> ID25
+  ID25 --> ID30
+  ID38 --> ID48
+  ID46 --> ID47
+```
+
 ID | Summary | Detailed Acceptance Criteria | Owner | Story Points | Sprint Goal Link | Demo Artifact
 ---|---------|-----------------------------|-------|--------------|------------------|--------------
 [EPIC‑A] ID01 | Create Okta Kinesis stream | **Given** Okta syslog API creds<br>**When** Terraform applies<br>**Then** new Kinesis stream `okta_raw` receives events within 5 s (§data‑flow Fig 1) | DataEng | 3 | Sprint 1 | CloudWatch metric screenshot
