@@ -47,6 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=urge&show_icons=true&theme=transparent" alt="3D Contributions" />
 </p>
 
+<!-- Animated GitHub Globe -->
+<p align="center">
+  <img src="https://github.com/urge/urge/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub Contribution Globe" />
+</p>
+
 <!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/urge/urge/output/github-contribution-grid-snake-dark.svg">
