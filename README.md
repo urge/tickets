@@ -216,6 +216,49 @@ graph TD
 
 ## 💡 n8n Philosophy & Best Practices
 
+<div align="center">
+
+### 🎯 **Core Principles for Automation Excellence**
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/module.png" alt="Modularity" width="64" height="64"/><br/>
+<b>🎯 Modularity First</b><br/>
+Build reusable sub-workflows that can be composed
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/shield.png" alt="Security" width="64" height="64"/><br/>
+<b>🔒 Security-First</b><br/>
+Never hardcode credentials, use credential store
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/error.png" alt="Error Handling" width="64" height="64"/><br/>
+<b>🛡️ Error Resilience</b><br/>
+Always plan for failure with proper error handling
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/inspect-code.png" alt="Observability" width="64" height="64"/><br/>
+<b>📊 Observability</b><br/>
+Add logging and metrics at critical points
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/lightning-bolt.png" alt="Performance" width="64" height="64"/><br/>
+<b>⚡ Performance-Aware</b><br/>
+Optimize data flows and avoid unnecessary processing
+</td>
+<td align="center" width="33%">
+<img src="https://img.icons8.com/fluency/96/test-passed.png" alt="Testing" width="64" height="64"/><br/>
+<b>🧪 Test-Driven</b><br/>
+Test workflows with edge cases before production
+</td>
+</tr>
+</table>
+
+</div>
+
 ### 🏗️ **My Workflow Design Principles**
 
 1. **🎯 Modularity First** – Build reusable sub-workflows that can be composed
@@ -333,11 +376,45 @@ graph TD
 
 ### 📚 **n8n Community Contributions**
 
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/node.png" alt="Custom Nodes" width="64" height="64"/><br/>
+<b>60+</b><br/>Custom Nodes
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/chat.png" alt="Forum Posts" width="64" height="64"/><br/>
+<b>100+</b><br/>Forum Posts
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/video.png" alt="Tutorials" width="64" height="64"/><br/>
+<b>25K+</b><br/>Tutorial Views
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/document.png" alt="Documentation" width="64" height="64"/><br/>
+<b>50+</b><br/>Doc Contributions
+</td>
+</tr>
+</table>
+
+</div>
+
 - 🌟 **60+ Custom Nodes** created and shared with the community
 - 📝 **100+ Forum Posts** helping others solve automation challenges
 - 🎥 **Tutorial Videos** on advanced n8n patterns (25K+ views)
 - 📖 **Documentation** contributions to official n8n docs
 - 🐛 **Bug Reports & PRs** to the n8n core repository
+
+<br/>
+
+<!-- GitHub Stats Detailed -->
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=urge&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=EA4B71&icon_color=00D4AA" alt="Top Contributed Repos" />
+
+</div>
 
 ### 🏆 **Certifications & Recognition**
 
@@ -345,6 +422,17 @@ graph TD
 - ✅ **AWS Solutions Architect** – Associate
 - ✅ **Terraform Associate** Certified
 - 🏅 **Top 1% n8n Community Contributor** (2023-2024)
+- 🎖️ **GitHub Arctic Code Vault Contributor**
+- ⭐ **Stack Overflow Top Contributor** (Automation Tag)
+
+<div align="center">
+
+<!-- Achievement Badges -->
+<img src="https://img.shields.io/badge/n8n-Certified_Expert-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n Certified" />
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified" />
+<img src="https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Certified" />
+
+</div>
 
 ---
 
@@ -435,6 +523,25 @@ graph TD
 
 <div align="center">
 
+### 🎧 Now Playing on Spotify
+<!-- Spotify Now Playing Widget -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=urge&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=ea4b71&bar_color_cover=true" alt="Spotify Now Playing" />
+
+<br/><br/>
+
+### ⏱️ Weekly Coding Activity (WakaTime)
+<!-- WakaTime Stats Widget -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=urge&theme=radical&hide_border=true&bg_color=0D1117&title_color=EA4B71&icon_color=00D4AA&layout=compact&custom_title=Weekly%20Coding%20Stats" alt="WakaTime Stats" />
+
+<br/><br/>
+
+### 📝 Latest Blog Posts
+<!-- Blog posts from RSS feed -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 ### 🎲 Random Dev Quote
 <!-- Quote will refresh on each page load -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
@@ -467,6 +574,11 @@ graph TD
 
 <img src="https://github-readme-stats.vercel.app/api?username=urge&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=EA4B71&icon_color=00D4AA&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed Stats" />
 
+<br/><br/>
+
+### 🔥 Streak Stats with Fire
+<img src="https://github-readme-streak-stats.herokuapp.com?user=urge&theme=radical&hide_border=true&background=0D1117&ring=EA4B71&fire=FF6B6B&currStreakLabel=00D4AA&sideNums=FFFFFF&sideLabels=00D4AA&dates=CCCCCC" alt="GitHub Streak Enhanced" />
+
 </div>
 
 ---
@@ -480,13 +592,49 @@ graph TD
 - 🌙 **Night owl:** Best workflows are created at 2 AM with coffee ☕
 - 🎨 **Design geek:** Spend hours making workflows aesthetically pleasing
 - 🚴 **Efficiency junkie:** Automated 95% of my personal tasks (including this README generation 😉)
+- 🤖 **Easter egg:** This README auto-updates daily via n8n workflow
+- 💡 **Favorite debugging tool:** `console.log()` with creative emojis
+- 🎵 **Coding playlist:** Lo-fi beats + synthwave + dark ambient
+- 🏆 **Proudest moment:** Automated a 40-hour/week manual task to 0 hours
+- 📚 **Reading list:** Currently diving into "Designing Data-Intensive Applications"
+
+---
+
+## 📌 Pinned Repositories & Featured Work
+
+<div align="center">
+
+<a href="https://github.com/urge/n8n-workflows">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urge&repo=n8n-workflows&theme=radical&hide_border=true&bg_color=0D1117&title_color=EA4B71&icon_color=00D4AA" alt="n8n Workflows" />
+</a>
+<a href="https://github.com/urge/automation-templates">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urge&repo=automation-templates&theme=radical&hide_border=true&bg_color=0D1117&title_color=EA4B71&icon_color=00D4AA" alt="Automation Templates" />
+</a>
+
+<br/>
+
+<a href="https://github.com/urge/custom-n8n-nodes">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urge&repo=custom-n8n-nodes&theme=radical&hide_border=true&bg_color=0D1117&title_color=EA4B71&icon_color=00D4AA" alt="Custom n8n Nodes" />
+</a>
+<a href="https://github.com/urge/workflow-patterns">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=urge&repo=workflow-patterns&theme=radical&hide_border=true&bg_color=0D1117&title_color=EA4B71&icon_color=00D4AA" alt="Workflow Patterns" />
+</a>
+
+</div>
 
 ---
 
 ## 📊 Recent Activity
 
+<details>
+<summary><b>🔥 Latest GitHub Activity</b></summary>
+
+<br/>
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+</details>
 
 ---
 
